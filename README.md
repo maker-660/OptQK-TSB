@@ -1,2 +1,2 @@
 # git
-Here, the dynamic experimental results of the paper are stored in GIF format, representing animated graphs.
+The repository here contains the dynamic experimental results figures for the paper. The dynamic graph is stored as a file named "animated graph.gif".
